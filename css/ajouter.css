@@ -1,0 +1,97 @@
+/* Style pour le message de confirmation */
+.messageR {
+    background-color: rgb(228, 225, 29); /* Couleur de fond verte pour un look positif */
+    border: 1px solid rgb(199, 230, 20);
+    color: #070707; /* Couleur de texte verte */
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px auto; /* Centre le message horizontalement */
+    max-width: 40%; /* Limite la largeur du message à 40% de l'écran */
+    text-align: center; /* Centre le texte à l'intérieur du message */
+}
+
+/* Style pour le bouton de redirection */
+.btn-primary {
+    background-color: #337ab7; /* Couleur de fond bleue pour le bouton */
+    color: #fff; /* Couleur de texte blanche */
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #286090; /* Changement de couleur au survol du bouton */
+}
+
+
+/*:::::::::::::::::::::::::::::::::*/
+.contact_section1 {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.contact_text1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.mail_sectin1 form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.email-bt1,
+.massage-bt1 {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.send_bt1 {
+    text-align: center;
+}
+
+.send_bt1 input {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.send_bt1 input:hover {
+    background-color: #0056b3;
+}
+
+.map_main1 {
+    margin-top: 30px;
+}
+
+.map-responsive1 {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-responsive1 iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.preforme{
+    text-align: center;
+    color: #070707;
+}
+
+/*:::::::::::::::::µ*/
+/* Ajoutez ces styles à votre fichier CSS */
